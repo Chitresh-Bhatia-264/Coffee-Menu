@@ -23,7 +23,7 @@ For inquiries about usage rights, please use the **Discussions** tab in this rep
 
 Here’s a glimpse of the website:
 
-![Website Screenshot](./assets/screenshot.png)
+![Website Screenshot](./assets/)
 
 
 See the [LICENSE](./LICENSE) file for full details.
